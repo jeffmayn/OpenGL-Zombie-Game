@@ -17,3 +17,7 @@ Ting jeg vil prøve at implementere:
 10. animation
 ```
 
+Status:
+```
+1. [igang]
+```
