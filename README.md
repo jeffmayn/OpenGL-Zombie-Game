@@ -14,5 +14,6 @@ Ting jeg vil prøve at implementere:
 7. kollision detection
 8. basic physics
 9. basic a.i (enemy pathfinding)
+10. animation
 ```
 
